@@ -13,6 +13,7 @@ router.post('/', withAuth, async (req, res) => {
   }
 });
 
+
 router.put('/:id', withAuth, async (req, res) => {
   try {
     const [affectedRows] = await Post.update(req.body, {
