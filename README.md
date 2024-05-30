@@ -13,13 +13,13 @@ To start the application, run:
 
 ### Tech Used
 
-express.js: for routing
-espress-session: npm for login sessions
-Handlebars: for Views and Layouts
-bcrypt: npm for password hashing
-mysql / mysql12: for database and schema
-sequelize: for ORM database relations
-nodemon: development tool for real-time updating
+- **express.js:** 
+- **express-session:** 
+- **Handlebars:**
+- **bcrypt:**
+- **mysql / mysql12:**
+- **sequelize:**
+- **nodemon:**
 
 ## Videos
 
@@ -29,7 +29,7 @@ nodemon: development tool for real-time updating
 - Comment on others' posts
 
 
-[View the video](https://drive.google.com/file/d/1inR-inYxTwuzHkEtVP8AL92sN5kJSqBT/view?usp=sharing)
+[View the video](https://drive.google.com/file/d/15v50fw-Y1m_Vh0x2zkZgiGJSuJwaVqZS/view?usp=sharing)
 
 
 ### License
